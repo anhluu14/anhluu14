@@ -1,10 +1,10 @@
 
 # 👋 Hi, I'm Anh!
 👩🏻‍💻 I'm currently working as a Software Engineer at Venera AI but open to jobs<br/>
-🤝 I'm looking to collaborate on AI projects
-🌱 I'm currently learning about Azure
+🤝 I'm looking to collaborate on AI projects<br/>
+🌱 I'm currently learning about Azure<br/>
 🎓 Graduated at the University of South Florida with Computer Science bachelor's degree<br/>
-⚡ Fun fact: I love basketball and watching NBA
+⚡ Fun fact about me: I love basketball and watching NBA<br/>
 📫 How to reach me https://www.linkedin.com/in/anh-tuan-luu/ <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
