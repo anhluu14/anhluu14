@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @anhluu14
-- 👀 I’m interested in obtaining an entry-level position as a software developer
-- 🌱 I’m currently learning Computer Science
-- 💞️ This is my portfolio website: https://anhluu14.github.io/
-- 📫 How to reach me https://www.linkedin.com/in/anh-tuan-luu/
 
-<!---
-anhluu14/anhluu14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Anh!
+👩🏻‍💻 Currently working as a Software Engineer at Venera AI but open to jobs<br/>
+👩🏻‍🎓 Studied Computer Science at the University of South Florida<br/>
+📫 How to reach me https://www.linkedin.com/in/anh-tuan-luu/ <br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
