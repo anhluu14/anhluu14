@@ -5,4 +5,4 @@
 📫 How to reach me https://www.linkedin.com/in/anh-tuan-luu/ <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=anhluu14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>)<br/>
+![Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhluu14&show_icons=true&theme=radical)<br/>
