@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer based in New York with a B.S. in Computer Science from the University of South Florida.
+I'm a Software Engineer based in New York with a B.S. in Computer Science from University of South Florida.
 
 I enjoy building **AI-powered products, full-stack applications, and backend systems**. I'm particularly interested in **AI/LLMs, RAG, scalable web applications, and developer tools**.
 
