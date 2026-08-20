@@ -90,7 +90,7 @@ Cross-platform paper-trading app with real-time market data, portfolio tracking,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anhluu14&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhluu14&theme=dark&hide_border=true" height="170"/>
 </p>
 
