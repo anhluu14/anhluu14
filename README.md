@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Teddy Luu 👋</h1>
 
-<h3 align="center">Software Engineer | AI & Full-Stack Developer | Computer Science @ USF</h3>
+<h3 align="center">Software Engineer | AI & Full-Stack Developer | Software Engineer @ Venera AI</h3>
 
 ---
 
