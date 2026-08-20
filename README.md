@@ -4,18 +4,6 @@
   Software Engineer | AI & Full-Stack Developer
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/anh-tuan-luu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anhluu1114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/anhluu14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -27,6 +15,14 @@ I enjoy building **AI-powered products, full-stack applications, and backend sys
 Currently building, learning, and experimenting with new ideas.
 
 ---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anh-tuan-luu)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhluu14)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/t3ddylul)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhluu1114@gmail.com)
+
 
 ## 💻 Tech Stack
 
