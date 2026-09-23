@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer at Venera AI and graduated with a Bachelors Degree in CS at University of South Florida
+I'm a Software Engineer at Venera AI and graduated with a Bachelors Degree in CS at University of South Florida.
 
 I enjoy building **AI-powered products, full-stack applications, and backend systems**. I'm particularly interested in **AI/LLMs, RAG, scalable web applications, and developer tools**.
 
